@@ -1,0 +1,6 @@
+{
+  "name": "Trip Don't Talking",
+  "description": "Trip tap to",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
